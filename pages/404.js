@@ -6,7 +6,7 @@ const NotFound = () => {
     <Layout title="Page not found">
       <div className="flex flex-col items-center mt-20">
         <Image
-          src="/logo.png"
+          src="/images/logo.png"
           width={70}
           height={70}
           alt="logo"
